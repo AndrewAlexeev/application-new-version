@@ -1,0 +1,46 @@
+{
+  "column": [
+    {
+      "name": "name",
+      "colHelp": "name!"
+    },
+    {
+      "name": "col1",
+      "colHelp": "col1!"
+    },
+    {
+      "name": "col2",
+      "colHelp": "col2!"
+    },
+    {
+      "name": "col3",
+      "colHelp": "col3!"
+    },
+    {
+      "name": "test_dir",
+      "colHelp": "col_test_dir"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Andrew",
+      "path": "C:\\Users\\Andrew"
+    },
+    {
+      "name": "Nik",
+      "path": "C:\\Users\\Nik"
+    },
+    {
+      "name": "Aleаx",
+      "path": "C:\\Users\\Aleаx"
+    },
+    {
+      "name": "Saha",
+      "path": "C:\\Users\\lin3"
+    },
+    {
+      "name": "Dima",
+      "path": "C:\\Users\\User\\Desktop\\program"
+    }
+  ]
+}
